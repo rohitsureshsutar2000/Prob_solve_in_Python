@@ -38,4 +38,5 @@ int main()
     {
         array[i].display();
     }
+    return 0;
 }
